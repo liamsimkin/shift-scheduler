@@ -1,0 +1,25 @@
+Office,53.448146,-2.369270
+Trafford General Hospital,53.453648,-2.370533
+Davyhulme Park Golf Club,53.454503,-2.378542
+Lime St,53.407218,-2.977587
+Tim Bobbin,53.448111,-2.357176
+NRG gym,53.459291,-2.289614
+Camp and Furnace,53.394258,-2.9810640
+The Hideaway Manchester,53.418248,-2.4254336
+Wigan Life Centre,53.544790,-2.6292547
+Mountford Hall,53.405283,-2.9656788
+Manchester Airport,53.349270,-2.280203
+The Brindley,53.340688,-2.7314147
+Beaumont Park,53.625914,-1.8119159
+The Italian Club,53.402499,-2.976889
+Electrik Warehouse,53.403821,-2.981141
+O2 Ritz,53.474325,-2.242928
+Roebuck Hotel,53.443770,-2.366583
+Anfield Stadium,53.430814,-2.960729
+Goodison Park Stadium,53.438783,-2.966323
+Cavern Club,53.406297,-2.987967
+Village Hotel Liverpool,53.402357,-2.809759
+PureGym Widnes,53.362080,-2.721660
+The Resident Hotel,53.402773,-2.9804900
+The Resident Hotel,-2.9804900,53.402773 
+The Resident Hotel,-2.9804900,53.402773

@@ -1,0 +1,22 @@
+Trafford General Hospital,53.453648,-2.370533,5
+Davyhulme Park Golf Club,53.454503,-2.378542,6
+Lime St,53.407218,-2.977587,7
+Tim Bobbin,53.448111,-2.357176,5
+NRG gym,53.459291,-2.289614,6
+Camp and Furnace,53.394258,-2.9810640,7
+The Hideaway Manchester,53.418248,-2.4254336,5
+Wigan Life Centre,53.544790,-2.6292547,6
+Mountford Hall,53.405283,-2.9656788,7
+Manchester Airport,53.349270,-2.280203,2
+The Brindley,53.340688,-2.7314147,3
+Beaumont Park,53.625914,-1.8119159,4
+The Italian Club,53.402499,-2.976889,1
+Electrik Warehouse,53.403821,-2.981141,3
+O2 Ritz,53.474325,-2.242928,4
+Roebuck Hotel,53.443730,-2.366600,1
+The Italian Club,53.402536,-2.976875,1
+Cavern Club,53.406293,-2.9878886,1
+Anfield Stadium,53.430212,-2.9619309,2
+Village Hotel Liverpool,53.402439,-2.8097405,2
+PureGym Widnes,53.361329,-2.7199831,3
+Goodison Park Stadium,53.438775,-2.9664406,4

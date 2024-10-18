@@ -1,0 +1,17 @@
+username,password,user,1
+username1,password1,user,2
+admin,password,admin,0
+paulWhite,abcdedf,user,3
+aliceGrace,abc123,user,1
+jakeSibanda,password1,user,1
+philRobinson,jerry2,user,1
+jakeGagan,penguin,user,2
+henryBrown,benjibenji,user,2
+danRedfern,tillydog2,user,3
+aidenEdwards,12lol12,user,5
+alexRonny,70,user,7
+jakeSibanda,a,user,4
+michaelKay,pickword,admin,4
+alfieWare,jasper24,admin,4
+ee,elp,admin,0
+lukeCarter,pwordy,user,0
